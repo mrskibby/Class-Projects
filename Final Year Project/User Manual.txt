@@ -1,0 +1,21 @@
+Use the APK to install the software in android phone. 
+
+
+admin login: sakib@yahoo.com
+password: sakib12345
+
+guard login: sakib@gmail.com
+password: sakib12345
+
+
+First Register as a guard.
+Then login to the system using email address and password.
+
+The guard can scan vehicle and register vehicle and register owner. Click on Scan Vehicle to scart scanning. 
+Then after that click on camera button.
+The guard needs to select if the vehicle is entering or exiting the campus. 
+The system will enter the details or of not registered then the system will show the vehicle registration page then the owner registration page.
+
+
+The admin can View the entry records, the admin can search by name, plate no, exis or entry.
+The admin can also ban the vehicles by selecting from ban vehicle button, The admin can also edit owner details by clicking on the Edit Onwer.
